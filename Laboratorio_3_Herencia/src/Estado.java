@@ -1,0 +1,3 @@
+public enum Estado {
+    BODEGA, DESPACHO, RUTA, ENTREGADO, DESECHADO
+}
